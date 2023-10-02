@@ -1,4 +1,4 @@
-# Data Science Enthusiast and Analyst
+# DataScience Newbie
 
 Welcome to my Data Science journey! 🚀 Here's a glimpse into who I am and what I've been up to in the world of analytics, machine learning, and AI.
 
