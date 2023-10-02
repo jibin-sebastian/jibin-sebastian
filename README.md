@@ -16,10 +16,10 @@ I'm a passionate Data Science enthusiast and Analyst, driven by a desire to tack
 
 ### Internship at SICK Sensor Intelligence :computer:
 
-Currently, I'm interning at SICK Sensor Intelligence, where I'm diving deep into the world of data analysis and machine learning. Some of my focus areas include:
-
-- Data analysis and preprocessing using Pandas, Numpy, Seaborn, and Matlab
-- Model building and evaluation using Scikit-learn, Tensorflow, and Keras
+Currently, I'm working in the Data Science team at SICK Sensor Intelligence, where I'm diving deep into the world of data analysis and machine learning. Some of my focus areas include:
+- Working on a Predictive maintenance system. Extract, Transform, and Load sensor data using python
+- Data analysis and preprocessing using libraries like Pandas, Numpy, Seaborn, and Matlab
+- Model building and evaluation
 - Hyperparameter optimization with tools like Optuna and Autosklearn
 
 ### Data Management at Creditshelf AG :computer:
@@ -55,7 +55,7 @@ During my educational journey, I've undertaken several projects, including:
 
 - End-to-end machine learning in aviation: Predicting flight fares using data exploration, cleaning, feature engineering, and model building.
 - Unsupervised ML for customer segmentation in the retail sector using PCA and KMeans.
-- Ongoing research on Automated classification of activity groups using empirical motion data.
+- A research case study on Automated classification of activity groups using empirical motion data.
 
 ## Let's Connect!  :calling:
 
