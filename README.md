@@ -22,10 +22,11 @@ Extract and clean data from Sensors and Service reports.
 ### Internship at SICK Sensor Intelligence :computer:
 
 Completed my internship with the Data Science team at SICK Sensor Intelligence, where I'm diving deep into the world of data analysis and machine learning. Some of my focus areas include:
-- Working on a Predictive maintenance system. Extract, Transform, and Load sensor data using python
-- Data analysis and preprocessing using libraries like Pandas, Numpy, Seaborn, and Matlab
-- Model building and evaluation
-- Hyperparameter optimization with tools like Optuna and Autosklearn
+- Data analysis and preprocessing [Pandas, Numpy, Seaborn, Matlab etc]
+- Model building and evaluation [Scikit-learn]
+- Optimize hyperparameters using Optuna and Autosklearn
+- Improve code quality ( Pytest, my[py], ) and project dependency management (Poetry)
+- Use AI ops pipeline: DVC
 
 ### Data Management at Creditshelf AG :computer:
 
