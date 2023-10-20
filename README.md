@@ -14,9 +14,14 @@ I'm a passionate Data Science enthusiast and Analyst, driven by a desire to tack
 
 ## My Journey So Far :bike: :bike: :bike: :bike:
 
+### Working Student: Data Scientist 🖥️
+
+Currently working on Predictive maintenance.
+Extract and clean data from Sensors and Service reports.
+
 ### Internship at SICK Sensor Intelligence :computer:
 
-Currently, I'm working in the Data Science team at SICK Sensor Intelligence, where I'm diving deep into the world of data analysis and machine learning. Some of my focus areas include:
+Completed my internship with the Data Science team at SICK Sensor Intelligence, where I'm diving deep into the world of data analysis and machine learning. Some of my focus areas include:
 - Working on a Predictive maintenance system. Extract, Transform, and Load sensor data using python
 - Data analysis and preprocessing using libraries like Pandas, Numpy, Seaborn, and Matlab
 - Model building and evaluation
