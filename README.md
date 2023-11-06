@@ -6,6 +6,8 @@ Welcome to my Data Science journey! 🚀 Here's a glimpse into who I am and what
 
 I am a Master's student, Contemplative Analyst, and a passionate advocate for Artificial Intelligence and Machine Learning. My goal is to apply these cutting-edge technologies to solve real-world business challenges and make a positive impact on society.
 
+[![Profile Views](https://komarev.com/ghpvc/?username=jibin-sebastian&label=Profile+Views)](https://github.com/jibin-sebastian)
+
 ## My Motivation :roller_coaster:
 
 Hey there, Jibin Sebastian! 👋
