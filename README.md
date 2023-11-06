@@ -69,8 +69,9 @@ During my educational journey, I've undertaken several projects, including:
 
 I'm on a quest to continually learn and innovate in the realm of Data Science. Connect with me to share insights, collaborate on projects, and explore the exciting world of AI and machine learning together.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/jibin-sebastian)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://www.instagram.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/jibin-sebastian)
 
 Stay curious, stay ambitious! 🌟
