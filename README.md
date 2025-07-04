@@ -16,12 +16,23 @@ I'm a passionate Data Science enthusiast and Analyst, driven by a desire to tack
 
 ## My Journey So Far :bike: :bike: :bike: :bike:
 
-### Working Student: Data Scientist 🖥️
+### Work Student: Data Scientist 🖥️ : SupplyOn AG
 
-Currently working on Predictive maintenance.
+Supported designing and implementing analytics solutions to enhance supply chain sustainability. 
+Developed AI solutions and APIs using Python and SQL, deployed via Azure DevOps in the Microsoft Azure cloud.
+Built scalable data preprocessing pipelines (Azure Data Factory)
+Refactored Azure Data Warehouse using SQL. 
+Designed concepts and requirements for product features, dashboards, and big data applications based on user stories. 
+Created process sketches and mockups to visualise workflows and solutions. (UML) 
+Built prototypes using Power BI, SQL, and Python within the Microsoft Azure Cloud tech stack. 
+Collaborated with product teams, development departments, and the AI Centre of Competence to drive innovation in supply chain sustainability solutions.
+
+### Working Student: Data Scientist 🖥️ : SICK Sensor Intelligence
+
+Worked on Predictive maintenance.
 Extract and clean data from Sensors and Service reports.
 
-### Internship at SICK Sensor Intelligence :computer:
+### Internship : SICK Sensor Intelligence :computer:
 
 Completed my internship with the Data Science team at SICK Sensor Intelligence, where I'm diving deep into the world of data analysis and machine learning. Some of my focus areas include:
 - Data analysis and preprocessing [Pandas, Numpy, Seaborn, Matlab etc]
